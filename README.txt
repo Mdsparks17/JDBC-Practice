@@ -1,0 +1,1 @@
+This project is intended to be practice linking mySQL with Java using Java Database Connection. This practice was largely guided by https://www.youtube.com/watch?v=379qkZTibZA
